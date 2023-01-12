@@ -13,7 +13,7 @@ Let's hop on to the table of contents of this tutorial.
 
 ## :seedling:Table of Contents
 
-1. Prerequisites and Learning Outcomes
+1. [Prerequisites and Learning Outcomes](☀️Prerequisites and Learning Outcomes.md)
 2. What is Solidity?
 3. What is a Contract in Solidity?
 4. Hello World
