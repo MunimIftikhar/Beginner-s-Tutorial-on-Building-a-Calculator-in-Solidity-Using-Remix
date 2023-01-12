@@ -13,7 +13,7 @@ Let's hop on to the table of contents of this tutorial.
 
 ## :seedling:Table of Contents
 
-1. [Prerequisites and Learning Outcomes]:(https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/%E2%98%80%EF%B8%8FPrerequisites%20and%20Learning%20Outcomes.md)
+1. [Prerequisites and Learning Outcomes]
 2. What is Solidity?
 3. What is a Contract in Solidity?
 4. Hello World
@@ -22,3 +22,5 @@ Let's hop on to the table of contents of this tutorial.
 7. Building a Simple calculator (+,-,x,%) Contract
 8. Deploying the Calculator Contract
 9. Calling the Contract
+
+[Prerequisites and Learning Outcomes]:(https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/%E2%98%80%EF%B8%8FPrerequisites%20and%20Learning%20Outcomes.md)
