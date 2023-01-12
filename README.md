@@ -1,11 +1,11 @@
-# Beginner's tutorial on building a calculator in Solidity using Remix
-### Learn Solidity basics, write your first program in Solidity, and build a calculator in Solidity using Remix
+<h1>Beginner's tutorial on building a calculator in Solidity using Remix</h1>
+<p>Learn Solidity basics, write your first program in Solidity, and build a calculator in Solidity using Remix</p>
 ---
-## Intro
+## :tulip:Intro
 
 Welcome to the path of learning together!
 
-My name is Munim Iftikhar, and I have an exciting tutorial for you to learn beginner level Solidity using Remix IDE.
+My name is Munim Iftikhar, and I have an exciting tutorial for you to learn beginner level Solidity using Remix IDE by building a calculator.
 
 Let's hop on to the table of contents of this tutorial.
 
