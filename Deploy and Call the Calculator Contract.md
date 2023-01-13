@@ -27,3 +27,6 @@ Click the **call** button and you will see a `0:uint256: 10` field giving you th
 <img width="305" alt="Screenshot 2023-01-13 at 5 04 22 PM" src="https://user-images.githubusercontent.com/40567828/212316326-21452b3e-65ba-4f31-a7ac-6b9cae38c0ee.png">
 
 Repeat the process for other calculator operations.
+
+---
+🎊 Congragulations on completing the tutorial. 
