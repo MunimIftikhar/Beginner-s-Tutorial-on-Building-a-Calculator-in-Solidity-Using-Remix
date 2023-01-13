@@ -23,4 +23,4 @@ Let's hop on to the table of contents of this tutorial.
 8. [Deploy and Call the Calculator Contract](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/Deploy%20and%20Call%20the%20Calculator%20Contract.md)
 
 ---
-[Next Lesson](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/%E2%98%80%EF%B8%8FPrerequisites%20and%20Learning%20Outcomes.md)
+[👉Next Lesson](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/%E2%98%80%EF%B8%8FPrerequisites%20and%20Learning%20Outcomes.md)
