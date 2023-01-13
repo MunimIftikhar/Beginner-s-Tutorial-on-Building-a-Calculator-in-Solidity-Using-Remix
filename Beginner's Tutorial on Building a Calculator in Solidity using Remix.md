@@ -1,4 +1,4 @@
-<h1>Beginner's tutorial on building a calculator in Solidity using Remix</h1>
+<h1>Beginner's Tutorial on Building a Calculator in Solidity using Remix</h1>
 <p>Learn Solidity basics, write your first program in Solidity, and build a calculator in Solidity using Remix</p>
 
 ---
