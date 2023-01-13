@@ -1,18 +1,17 @@
 # Setting up a Development Environment
-Get introduced to Remix IDE and how can you set it up to run a Solidity program.
+Get introduced to Remix IDE and how you can set it up to run a Solidity program.
 
 ---
 
 ## What is Remix?
 
-Remix is an IDE (Integrated Development Enviroment). It is an open-source development enviroment, used primarily to run 
-Solidity programs and for the entire process of smart contract development.
+The Remix is an IDE (Integrated Development Environment). It is an open-source development environment used primarily to run a Solidity program and for the entire process of smart contract development.
 
 ## Setting up the Remix IDE with Hello, World program
-Let's go over the steps how you set up the Remix by writing and deploying your first smart contract.
+Let's review how you set up Remix by writing and deploying your first smart contract.
 
 ### Create a new file
-Go to the [remix official website](https://remix.ethereum.org), select Solidity and create a new file named `calculator.sol`.
+Go to the [official remix website](https://remix.ethereum.org), select Solidity, and create a new file named `calculator.sol`.
 
 <img width="1439" alt="Screenshot 2023-01-13 at 10 04 56 AM" src="https://user-images.githubusercontent.com/40567828/212246595-3dd3d798-73a5-4983-a4d2-9cf07c9d8dfa.png">
 
@@ -54,7 +53,7 @@ Go to the **File Explorer** and search **Solidity Compiler**.
 
 <img width="367" alt="Screenshot 2023-01-13 at 4 21 54 PM" src="https://user-images.githubusercontent.com/40567828/212309376-1fde9243-286b-4fcf-a866-ba66992c6425.png">
 
-Click on `Compile and Run Script` button to run the `calculator` contract.
+Click on the `Compile and Run Script` button to run the `calculator` contract.
 
 <img width="358" alt="Screenshot 2023-01-13 at 4 25 22 PM" src="https://user-images.githubusercontent.com/40567828/212310016-fc69410d-813b-4041-bef5-18d0f36e2e5b.png">
 
