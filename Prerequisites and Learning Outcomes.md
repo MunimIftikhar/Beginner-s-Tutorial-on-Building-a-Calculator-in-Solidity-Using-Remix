@@ -1,4 +1,4 @@
-## :sunny:Prerequisites and Learning Outcomes
+## Prerequisites and Learning Outcomes
 An overview of the intended audience and what you will learn in this tutorial.
 
 ---
