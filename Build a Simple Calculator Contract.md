@@ -1,4 +1,4 @@
-# Building a Simple Calculator Contract
+# Build a Simple Calculator Contract
 Learn how to implement a simple calculator in Solidity.
 
 ---
