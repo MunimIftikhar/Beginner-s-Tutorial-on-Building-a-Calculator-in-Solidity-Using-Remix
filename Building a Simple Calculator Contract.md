@@ -3,7 +3,7 @@ Learn how to implement a simple calculator in Solidity.
 
 ---
 
-## Select version
+## Select the version
 
 Start with selecting the latest version of `pragma solidity`. Let's try adding the following version.
 
@@ -36,16 +36,16 @@ function addition(uint numberOne, uint numberTwo) public pure returns (uint) {
 ```
 **Parameters**
 
-`numberOne` and `numberTwo` are two parameters using those we will do addition operation. 
+`numberOne` and `numberTwo` are two parameters using those we will do an addition operation. 
 
 **Access visibility**
 
-The function visibility is `public`, so that we can call
-the function and perform the operation. 
+The function visibility is `public` so that we can call
+the function and perform the addition operation. 
 
 **Modifier**
 
-As we are not using any `contract` variable or data from the blockchain, we can simply use `pure` modifier and return 
+As we are not using any `contract` variable or data from the blockchain, we can use `pure` modifier and return 
 the result of `numberOne + numberTwo`. 
 
 ---
@@ -61,16 +61,16 @@ function subtraction(uint numberOne, uint numberTwo) public pure returns (uint) 
 ```
 **Parameters**
 
-`numberOne` and `numberTwo` are two parameters using those we will do subtraction operation. 
+`numberOne` and `numberTwo` are two parameters. Using those, we will do a subtraction operation. 
 
 **Access visibility**
 
 The function visibility is `public`, so that we can call
-the function and perform the operation. 
+the function and perform the subtraction operation. 
 
 **Modifier**
 
-As we are not using any `contract` variable or data from the blockchain, we can simply use `pure` modifier and return 
+As we are not using any `contract` variable or data from the blockchain, we can simply use the `pure` modifier and return 
 the result of `numberOne - numberTwo`. 
 
 ---
@@ -86,16 +86,16 @@ function multiplication(uint numberOne, uint numberTwo) public pure returns (uin
 ```
 **Parameters**
 
-`numberOne` and `numberTwo` are two parameters using those we will do multiplication operation. 
+`numberOne` and `numberTwo` are two parameters using those we will do multiplication operations. 
 
 **Access visibility**
 
 The function visibility is `public`, so that we can call
-the function and perform the operation. 
+the function and perform the multiplication operation. 
 
 **Modifier**
 
-As we are not using any `contract` variable or data from the blockchain, we can simply use `pure` modifier and return 
+As we are not using any `contract` variable or data from the blockchain, we can simply use the `pure` modifier and return 
 the result of `numberOne * numberTwo`. 
 
 ---
@@ -113,16 +113,16 @@ function division(uint numberOne, uint numberTwo) public pure returns (uint) {
 ```
 **Parameters**
 
-`numberOne` and `numberTwo` are two parameters using those we will do division operation. 
+`numberOne` and `numberTwo` are two parameters. Using those, we will do division operations. 
 
 **Access visibility**
 
 The function visibility is `public`, so that we can call
-the function and perform the operation. 
+the function and perform the division operation. 
 
 **Modifier**
 
-As we are not using any `contract` variable or data from the blockchain, we can simply use `pure` modifier and return 
+As we are not using any `contract` variable or data from the blockchain, we can simply use the `pure` modifier and return 
 the result of `numberOne / numberTwo`. 
 
 ---
@@ -153,3 +153,5 @@ contract Calculator {
     }
 }
 ```
+---
+[👉Next Lesson: Setting up a Development Environment]https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/Setting%20up%20a%20Development%20Environment.md)
