@@ -1,4 +1,4 @@
-# Setting up the Development Enviroment
+# Setting up a Development Environment
 Get introduced to Remix IDE and how can you set it up to run a Solidity program. Write Hello, World program and deploy it on Ethereum blockchain.
 
 ---
