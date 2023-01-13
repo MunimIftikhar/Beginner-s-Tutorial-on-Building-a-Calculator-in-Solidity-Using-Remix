@@ -18,7 +18,7 @@ Let's hop on to the table of contents of this tutorial.
 3. What is a Contract in Solidity?
 4. Hello World
 5. Solidity Basics
-6. Setting up a Development Environment
-7. Building a Simple calculator (+,-,x,%) Contract
+6. Building a Simple calculator Contract
+7. Setting up a Development Environment
 8. Deploying the Calculator Contract
 9. Calling the Contract
