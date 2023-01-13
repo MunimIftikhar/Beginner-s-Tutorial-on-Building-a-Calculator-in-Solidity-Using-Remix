@@ -19,6 +19,6 @@ Let's hop on to the table of contents of this tutorial.
 4. Hello World
 5. Solidity Basics
 6. Building a Simple calculator Contract
-7. Setting up a Development Environment
+7. [Setting up a Development Environment](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/Setting%20up%20a%20Development%20Environment.md)
 8. Deploying the Calculator Contract
 9. Calling the Contract
