@@ -15,9 +15,13 @@ You don’t need to be an expert in object-oriented programming, but understandi
 ## :sparkles:Learning outcomes
 1. What is Solidity
 2. What is a contract in Solidity
-3. Solidity basic syntax
+3. Solidity basics
 4. How to write Hello, World in Solidity
-5. Solidity development environment
-6. How to build a calculator in Solidity
-7. How to deploy the Solidity smart contract
-8. How to call the contract
+5. How to build a calculator in Solidity
+6. What is Remix
+7. How to set up the Solidity development environment in Remix
+9. How to deploy the Solidity smart contract
+10. How to call the contract
+
+---
+[👉Next Lesson: What is Solidity?](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/%F0%9F%91%80What%20is%20Solidity.md)
