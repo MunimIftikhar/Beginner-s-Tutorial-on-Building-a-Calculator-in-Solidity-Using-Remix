@@ -73,4 +73,4 @@ Following are some of the access modifiers in Solidity.
 * `payable`
 
 ---
-[👉Next Lesson: Hello World](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/Hello%2C%20World.md)
+[👉Next Lesson: Hello World](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/Hello%20World.md)
