@@ -37,4 +37,4 @@ The `function` keyword declares a function named `print`, that is public and has
 The `pure` modifiers specify that function does not need to access any data or variable declared in a contract.
 
 ---
-[👉Next Lesson: Build a Simple calculator Contract](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/Building%20a%20Simple%20Calculator%20Contract.md)
+[👉Next Lesson: Build a Simple calculator Contract](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/Build%20a%20Simple%20Calculator%20Contract.md)
