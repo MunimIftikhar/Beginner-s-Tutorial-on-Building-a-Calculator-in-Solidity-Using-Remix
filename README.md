@@ -13,7 +13,7 @@ Let's hop on to the table of contents of this tutorial.
 
 ## :seedling:Table of Contents
 
-1. [Prerequisites and Learning Outcomes](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/edit/main/1.%20Prerequisites%20and%20Learning%20Outcomes.md)
+1. [Prerequisites and Learning Outcomes](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/1.%20Prerequisites%20and%20Learning%20Outcomes.md)
 2. [What is Solidity?](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/2.%20What%20is%20Solidity.md)
 3. [What is a Contract in Solidity?](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/3.%20What%20is%20a%20Contract%20in%20Solidity.md)
 4. [Solidity Basics](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/4.%20Solidity%20Basics.md)
@@ -23,4 +23,4 @@ Let's hop on to the table of contents of this tutorial.
 8. [Deploy and Call the Calculator Contract](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/8.%20Deploy%20and%20Call%20the%20Calculator%20Contract.md)
 
 ---
-[👉Next Lesson](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/edit/main/1.%20Prerequisites%20and%20Learning%20Outcomes.md)
+[👉Next Lesson](https://github.com/MunimIftikhar/Beginner-s-Tutorial-on-Building-a-Calculator-in-Solidity-Using-Remix/blob/main/1.%20Prerequisites%20and%20Learning%20Outcomes.md)
