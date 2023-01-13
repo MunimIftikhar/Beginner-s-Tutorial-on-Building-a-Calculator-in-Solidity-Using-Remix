@@ -13,7 +13,7 @@ A contract has the following properties, just like classes:
 Let's look at the basic syntax of a contract in Solidity:
 
 ```Solidity
-pragma solidity >=0.6.0 <0.9.0;
+pragma solidity ^0.8.0;
 
 contract example {
   // Variables declaration
